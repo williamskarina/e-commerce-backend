@@ -1,9 +1,13 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+# Object-Relational Mapping (ORM): E-Commerce Back End
 
-## User Story
+Building an e-commerce back end using sequelize that showcases how the database works for the retail company.
 
-```md
-AS A manager at an internet retail company
-I WANT a back end for my e-commerce website that uses the latest technologies
-SO THAT my company can compete with other e-commerce companies
-```
+## Built With
+- Sequelize
+- Express.js
+- JavaScript
+
+## Fucntionality Video Links
+
+## Author
+Karina W.
